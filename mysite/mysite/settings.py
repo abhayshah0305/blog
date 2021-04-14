@@ -126,8 +126,8 @@ STATIC_URL = '/static/'
 
 
 EMAIL_HOST = 'smpt.gmail.com'
-EMAIL_HOST_USER = 'codevoid12@gmail.com'
-EMAIL_HOST_PASSWORD = 'anyonecancode'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
